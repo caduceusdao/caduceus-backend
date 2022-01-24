@@ -1,0 +1,9 @@
+export enum Network {
+    RINKEBY = 4,
+    OPERA_MAIN_NET = 250,
+    OPERA_TEST_NET = 4002,
+    HARDHAT = 31337,
+    FUJI_AVALANCHE = 43113,
+    GANACHE = 1337,
+    BSC_TESTNET = 97,
+}
